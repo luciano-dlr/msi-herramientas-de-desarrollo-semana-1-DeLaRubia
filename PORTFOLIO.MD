@@ -3,3 +3,5 @@
 ## Sobre Mi
 
 ## Habilidades Técnicas
+
+Nuevas habilidades
